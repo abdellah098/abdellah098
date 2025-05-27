@@ -31,14 +31,6 @@ Mon credo : **Clean Code + Domain-Driven Design + approche DevOps dès le dépar
 
 ---
 
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellah098&show_icons=true&count_private=true&hide=issues&theme=default"/>
-</p>
-
----
-
 ## ✉️ Me contacter
 
 - LinkedIn : [linkedin.com/in/abdellah-yacouba](https://www.linkedin.com/in/abdellahyacouba98)
